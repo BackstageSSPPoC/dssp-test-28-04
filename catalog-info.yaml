@@ -1,8 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
+
 metadata:
   name: dssp-test-28-04
-  description: Node app that displays time - named dssp-test-28-04
+  description: Service dssp-test-28-04
+
   annotations:
     github.com/project-slug: BackstageSSPPoC/dssp-test-28-04
     backstage.io/techdocs-ref: dir:.
